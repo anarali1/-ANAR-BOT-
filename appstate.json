@@ -1,7 +1,65 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+    {
+        "key": "datr",
+        "value": "mxTNaJLCAG-Sq2P0I1Mnz-L5",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-19T16:29:31.260Z",
+        "lastAccessed": "2025-09-19T16:29:31.265Z"
+    },
+    {
+        "key": "sb",
+        "value": "mxTNaJTPpk2XP-Y8nFOqKnao",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-19T16:29:31.265Z",
+        "lastAccessed": "2025-09-19T16:29:31.265Z"
+    },
+    {
+        "key": "dpr",
+        "value": "1.7000000476837158",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-19T16:29:31.265Z",
+        "lastAccessed": "2025-09-19T16:29:31.265Z"
+    },
+    {
+        "key": "wd",
+        "value": "980x1858",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-19T16:29:31.265Z",
+        "lastAccessed": "2025-09-19T16:29:31.265Z"
+    },
+    {
+        "key": "c_user",
+        "value": "1361520363",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-19T16:29:31.265Z",
+        "lastAccessed": "2025-09-19T16:29:31.265Z"
+    },
+    {
+        "key": "xs",
+        "value": "44%3A0cS3REYYWlL45Q%3A2%3A1758270687%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-19T16:29:31.265Z",
+        "lastAccessed": "2025-09-19T16:29:31.265Z"
+    },
+    {
+        "key": "fr",
+        "value": "0uSrKHiTIkY45mvKY.AWexSzOayYKt353RlY7KCyJFaD6IR2gel4-K8c8gi5WYEwbtfbA.BozRSb..AAA.0.0.BozYPI.AWeW6y7XtWtSU6Gf-1Bgv388m_s",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-19T16:29:31.265Z",
+        "lastAccessed": "2025-09-19T16:29:31.265Z"
+    }
+]
